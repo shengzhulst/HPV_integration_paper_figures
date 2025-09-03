@@ -1,0 +1,4 @@
+SampleID,HmGene,seqnames,annot,start,y,pch,cex,color,end,Sample_Chr_Start,Sample_gene
+130-MCDM-3,TPRG1:TP63:MIR944:P3H2:CLDN1,chr3,genes_exons,189895060,0.4,0,2,orange,189895061,130-MCDM-3_chr3_189895060,130-MCDM-3_TPRG1:TP63:MIR944:P3H2:CLDN1
+1601,TPPP:ZDHHC11,chr5,genes_introns,801561,0.4,0,2,purple,801562,1601_chr5_801561,1601_TPPP:ZDHHC11
+1697,ADARB2,chr10,genes_introns,1555618,0.4,0,2,purple,1555619,1697_chr10_1555618,1697_ADARB2
