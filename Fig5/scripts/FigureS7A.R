@@ -1,12 +1,11 @@
 # Author: Shaomiao Xia
-# Date: [Add date here]
 # Description: Analysis of HPV integration status and immunonco scores, with violin plot visualization.
 
 # Load required libraries
 library(ComplexHeatmap)
 
 # Set working directory
-setwd("/Users/shaomiao/Desktop/Umich/SartorLab/HPV_integration/code_for_submission")
+setwd("HPV_integration_paper_figures/Fig5")
 
 # Read sample status and sample lists
 status <- read.csv("./data/all_HPV_samples_int_status_two_judgement_manullay.csv")
